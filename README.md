@@ -1,15 +1,15 @@
 # My-Plan
-- [*] ToDo Tasks.
+- [X] ToDo Tasks.
 - [] My Website.
-- [*] Contact Form.
-- [*] Sign Page.
+- [X] Contact Form.
+- [X] Sign Page.
 - [] Website For Any One It's Gifts 🎁 .
 
 ### Learn Tech
-- [*] Learn Html.
-- [*] Learn css.
-- [*] Learn Git.
-- [*] Learn PHP.
+- [X] Learn Html.
+- [X] Learn css.
+- [x] Learn Git.
+- [x] Learn PHP.
 - [] Learn MySQL.
 - [] OOP In PHP.
 - [] Learn Laravel.
